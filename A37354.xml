@@ -1,0 +1,190 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Declaration of Colonel Rich's regiment, with the engagement they have entered into also Major Braman's letter to Lieutenant Colonel Lagoe upon their going into Portsmouth : to which is added another letter sent from Major Braman to a friend of his in London.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37354</idno>
+            <idno type="STC">Wing D605</idno>
+            <idno type="STC">ESTC R8678</idno>
+            <idno type="EEBO-CITATION">11805689</idno>
+            <idno type="OCLC">ocm 11805689</idno>
+            <idno type="VID">49440</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37354)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49440)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 25:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Declaration of Colonel Rich's regiment, with the engagement they have entered into also Major Braman's letter to Lieutenant Colonel Lagoe upon their going into Portsmouth : to which is added another letter sent from Major Braman to a friend of his in London.</title>
+                  <author>Braman, John.</author>
+                  <author>Rich, Nathaniel, d. 1701.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.M. for Livewell Chapman ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Officers --  Correspondence.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:49440:1" rendition="simple:additions"/>
+            <p>THE DECLARATION of Colonel <hi>Rich</hi>'s Regiment.</p>
+            <p>With the Engagement they have Entered into.</p>
+            <p>ALSO Major <hi>Braman</hi>'s Letter to Lievtenant Colonel <hi>Lagoe,</hi> upon their going into PORTSMOUTH.</p>
+            <p>
+               <hi>To which is added another Letter ſent from Major</hi> Braman <hi>to a Friend of his in</hi> London.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>T. M.</hi> for <hi>Livewell Chapman,</hi> at his ſhop in <hi>Popes-head Alley,</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb n="2" facs="tcp:49440:2"/>
+            <head>The Declaration of Coll. <hi>Riche's</hi> Regiment.</head>
+            <p>DEarely beloved Brethren, Friends and fellow-Soul<g ref="char:EOLhyphen"/>diers; Wiſdome is juſtified of her children, and we therefore hope ſhall not be condemned by you; We cannot but believe concerning you, that the ſame trouble and perplexitie of ſpirit hath poſſeſſed you as our ſelves; and the ſame enquires, after our good old Cauſe, hath been in you as in us; and we humbly hope, that the God of all our mercies, whoſe will we deſire to follow in all things, will ſhew you as (bleſſed be his Name) he hath done us, what is our dutie in this dark Day. We have, as you, ſilently ſat down and ſeen a lawfull Authoritie, yea, that very Parliament, that raiſed and maintained us, after all the eminent and honourable Services done for God and their Generations, kickt out of their Seats with contempt and ſcorn: At which time we deſire to remem<g ref="char:EOLhyphen"/>ber to our own ſhame, that our poore native Country, not<g ref="char:EOLhyphen"/>withſtanding their feirce inteſtine wars and trouble, juſt gone over its head, was ſo ſettled and compoſed, that hardly could be perceived the Tract of that trouble they paſſed through; our Trade quick and flouriſhing, and ſuch abundant bleſſing from above, that the Poore were ſatisfied with bread in that plenty, that neither we nor our Fathers has ſeen the people of God countenanced and encouraged, growing up in union in all parts, and the publike enemy deſponding, At this juncture, we ſay, when <hi>England</hi> thus flouriſhed, <hi>Ireland</hi> reduced, and <hi>Scotland</hi> Con<g ref="char:EOLhyphen"/>quered, the <hi>Dane, Dutch</hi> and <hi>French</hi> afraid of our Fleets, and begging amity with us; and we a terrour to all the Nations round about, and when we were conſtantly paid before it was due, and our Navy not a penny in Arrears; we <hi>Jeſerum</hi> like waxed fat and kicked againſt our dear God and thoſe glorious Inſtruments in his hands; and ſuffer<g ref="char:EOLhyphen"/>ed our ſelves, through want of courage (forgetting conſcience and our Duty) to be led to the empoſing an
+<pb n="3" facs="tcp:49440:2"/>Arbitrary Power over our ſelves and the Free-born People of <hi>England;</hi> by which means our Fleets are loſt and leſ<g ref="char:EOLhyphen"/>ſened, our Trade decayed and ruined, our poore Coun<g ref="char:EOLhyphen"/>trey waſted and empoveriſhed, the Poore ſtarved, the Land unſetled, the Souldiers unpaid, the People of God rent and divided, publike enemies encouraged, and we become a deriſion to them we were a terrour too: We ſay having run our ſelves and poore Nation, from ſuch a happy ſettlement, into ſuch throngs of exegencies and diſtreſſes, from which we could no way imaginable ex<g ref="char:EOLhyphen"/>tricate our ſelves, and ſave the people thereof from inevi<g ref="char:EOLhyphen"/>table ruine and diſtraction. But the calling in that fa<g ref="char:EOLhyphen"/>mous <hi>Long Parliament,</hi> we ſo wickedly and unworthily had turned out, which accordingly was done; and they no ſooner ſat again, but the antient Preſence of our bleſſed God, appeared for them as formerly, and while they were intent upon their Generation-Work of laying foundations, for future Settlement, ſeeking out wayes to ſatisfie the Army, greatning the Navie, propa<g ref="char:EOLhyphen"/>gating Trade, <hi>&amp;c.</hi> But that old ſpirit of Pride, Diſobe<g ref="char:EOLhyphen"/>dience and Ambition ſought occaſion; Firſt, to quarrel, then interrupt their Power again, to the utter expoſing of that juſt and righteous Cauſe and Intereſt to an un<g ref="char:EOLhyphen"/>avoidable ruine and deſtruction. And as if one former apoſtacy which we pretended to repent of, had not been ſufficient to have attracted the hate and obloquie of God and all good men; They have run us into a Second evill, of a far greater magnitude than the former, and have emproved our eaſineſſe and aptneſſe to follow them im<g ref="char:EOLhyphen"/>plicitely, ſo as that they have brought us point blanck a<g ref="char:EOLhyphen"/>gainſt our very Cauſe and Company, and in the face of the Sun, do Command us to ſheath our Swords in the bo<g ref="char:EOLhyphen"/>wels of the Supream Authority of this Nation, againſt which never any yet lift up their hands proſpered; and to take away the blood of our dear Brethren old and faith<g ref="char:EOLhyphen"/>full friends, and as a Cheat, to compaſſe their deſignes the better, they would engage us to blood againſt this Parliament, under pretence of calling another. As if any Parliament could take the like care of us, both as Soul<g ref="char:EOLhyphen"/>diers
+<pb n="4" facs="tcp:49440:3"/>and Engliſhmen, as they whoſe Army we are, for you cannot but take notice, that all Parliaments, that ever yet hath been in the intervales of this, were never freinds, but enemies to the Army, this being moſt obvious to us, and we hope to you, we cannot but ac<g ref="char:EOLhyphen"/>quaint you with our Reſolutions, which is, that as the Army in <hi>Scotland,</hi> the Fleet unanimouſly, our bre<g ref="char:EOLhyphen"/>thren at <hi>London,</hi> and Col. <hi>Berries</hi> Regiment have Declared againſt this repeated Apoſtacy; and for the famous Long Parliament; So we in honour, duty and conſcience are bound with Swords in our hands to aſſert their juſt, and lawfull Power, ſo often acknowledged by our ſelves, againſt all that ſhall oppoſe it, Us, or any that have or do appear therefore. There being no other expedient to ex<g ref="char:EOLhyphen"/>piate our guilt, appeaſe our God, pacifie our Conſcience, clear our Reputations, to keep true to our Promiſes and Engagements, to Cement Gods People, to ſatisfie the Souldery, to ſettle the Nation, and to give us the Fruit of all the Blood ſpilt, Treaſurie ſpent, Prayers put up, Tears poured out, in which we hope, we ſhall have your chearfull concurrence, and that you will not ſuffer your ſelves to be led any longer againſt your true Intereſts both as men and Chriſtians: Such of your Officers as ſhall joyn with us in the work, we deſire may have double Honour; but ſuch as ſhall perſwade you to perſiſt in their Apoſtacy, we hope, you will as we ſhall doe, diſplace as perſons per<g ref="char:EOLhyphen"/>fideous and treacherous to God and their Truſts: Thus have we nakedly and freely unboſomed our ſelves, and broken the Ice, we ſhall now leave all to him, who is able to ſet your Dutie home upon your hearts, and ſave by few as by many, before whom we have mutablie Engaged our ſelves to Live and Dye together; which Reſolution the Frowns nor Flatteries of none ſhall make us to recede from; and in him reſt dear Brethren and fellow-Souldiers, yours and the Common-wealths Friends and Servants.</p>
+            <p>
+               <hi>We have encloſed ſent you the Copy of our Engagement, ſubſcri<g ref="char:EOLhyphen"/>bed by all, none diſſenting; we alſo deſire you to elect two of each Company to treate with the like number elected out of each Troop, to carry on the work.</hi>
+            </p>
+         </div>
+         <div type="text">
+            <pb n="5" facs="tcp:49440:3"/>
+            <head>The Engagement.</head>
+            <p>WE whoſe names are hereunto ſubſcribed, do ſolemnly in the ſight of God; whoſe we are, and who knows our hearts, in our preſent undertaking, engage that we will Adventure for each other to the last drop of our Bloods in the juſt defence of the Parliament, againſt our conſents moſt violent<g ref="char:EOLhyphen"/>ly and treacherouſly interrupted; and for that good and com<g ref="char:EOLhyphen"/>mon intreſt ſo long contended for; and do once again ſay that we will neither divide nor ſuffer our ſelves to be divided till the liberties both civil and Chriſtian of all men be full ſetled and ſe<g ref="char:EOLhyphen"/>cured, and from this our engagment neither by Art nor armes, will we be withdrawn, till we die. Teſtified in the preſence of him who is able to make us do valiantly, on whom alone we deſire to de<g ref="char:EOLhyphen"/>pend, and who we humbly hope will iſſue our undertakings ſo as glory will redound to him: and ſuch good to preſent and future generations, as babes unborne may bleſs us for,</p>
+            <closer>
+               <dateline>
+                  <hi>Portſdown,</hi> 
+                  <date>Decemb. <hi>20. 1659.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>Major <hi>Braymans</hi> Letter to Lievtenant Colonel <hi>Lago.</hi>
+            </head>
+            <p>BY Order from the Commiſſioners, by Authority of Parliament I am to Randeſvows my Colonels Regi<g ref="char:EOLhyphen"/>ment at <hi>Portſdown</hi> this day, and in obedience there<g ref="char:EOLhyphen"/>to, am upon my march; I am alſo commanded to ſend to them for farther Orders. I therefore deſire all ſtops may be removed between them and me, that I may know and execute their commands, if you ſhall refuſe, I ſhall march my Troops and endeavour by other wayes to do my du<g ref="char:EOLhyphen"/>ty. I deſire no blood may be effuſed, if there be, con<g ref="char:EOLhyphen"/>ſcience and your Commiſſion, will firſt accuſe, and then condemne you: I nor thoſe with me, having nothing upon our hearts but a healing that Breach that's rejoyced at, by none but them that ſeek your Ruine as well as ours, and an earneſt deſire that all heats and Animoſities be<g ref="char:EOLhyphen"/>tween
+<pb n="6" facs="tcp:49440:4"/>the Parliament and their Army may be forgotten and forgiven, which ſhall be no more heartily purſued by you than Sirs,</p>
+            <closer>
+               <dateline>
+                  <hi>Havant</hi> 
+                  <date>Decemb. 20. 11. clock, 1659.</date>
+               </dateline>
+               <signed>
+                  <hi>Your Freind and Servant</hi> John Braman</signed>
+            </closer>
+            <postscript>
+               <p>I deſire you would communicate this to our dear Brethren, Fellow Freinds and Souldiers with you and expect your ſpeedy anſwer.</p>
+               <closer>
+                  <signed>
+                     <hi>Superſcribed for Leiutenant Colonel</hi> Lagoe <hi>at</hi> Coſiam.</signed>
+               </closer>
+            </postscript>
+         </div>
+         <div type="letter">
+            <head>A letter from Major <hi>Brayman</hi> to a friend of his in <hi>London.</hi>
+            </head>
+            <opener>
+               <salute>My dear freind,</salute>
+            </opener>
+            <p>BEcauſe no reputation's ſo clear, nor act ſo honeſt, but envy will attempt to detract: I thought good to give you the trouble of a right underſtanding, to the end you may aſſoile me from Mr. <hi>Needham</hi>'s charge that I foreſee will furiouſly come upon me: My principle you know: Nor did I ever endeavour to abſcond it. Equall and u<g ref="char:EOLhyphen"/>niverſall Liberty, you are my witneſſe I have loved. And never yet thought my little all too much to venture for it: the paucity of its owners is matter of ſorrow. But can ne<g ref="char:EOLhyphen"/>ver make him vary that eys his duty. What you believed others feared concerning me; that I was guilty of that capitall Crime, of being conſtant and Faithfull to my Truſt: a ſin that ever yet ſtuck as cloſe to me as my ſhirt; and therefore our Commander in chief here gave me the benefit of an eaſie bed, at a convenient diſtance, till I dee<g ref="char:EOLhyphen"/>med it neceſſary to draw ſomewhat neerer him; which I did yeſterday, with my Colonels Troop <hi>Merimans</hi> and my own; and from <hi>Havant</hi> ſent him the encloſed. But it found him abſent: for in the morning an houre or two
+<pb n="7" facs="tcp:49440:4"/>before, two or three <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ouldiers went from my troops, to the Leagure with the encloſed Reſolution and Engagement, one to each Company, which the Lieutenant Colonel un<g ref="char:EOLhyphen"/>derſtanding, whether he thought he could not weather the Point, or what other reaſon he beſt knows: But as I ſaid, he took an occaſion to be abſent: After my letter I marched for <hi>Portſdown,</hi> diſmounted <hi>Barrington,</hi> and ſe<g ref="char:EOLhyphen"/>cured <hi>Ducket,</hi> and took their Troops with me, who wil<g ref="char:EOLhyphen"/>lingly followed; I ſpake one word or two to the troops, deſired them to conſult with their Conſcience, and re<g ref="char:EOLhyphen"/>ſolve either to own the true Intereſt they had fought and bled for; or uſe their Liberty otherwiſe. But as with one mouth, they cryed all, all, to the encloſed Engagement (which if you judge neceſſary may be made more publike) I then imediately marched: But the Foot before we came at them, had took up their Reſolution, they would not fight us, and were marching with their Colours for <hi>Portſ<g ref="char:EOLhyphen"/>mouth,</hi> where they now are; the Officers have liberty to return if they pleaſe: Not one Musket was fired on either ſide, which truly I judge a ſignal mercy; and certainly it is inſtructive, and doth tell us, that our duty is to purſue peace with each other and not war; which was the main improvement I begged of our Commiſſioners to make of this mercy: For though my blood and hundred elſe is too imcompetent for that precious Cauſe of God, and our generation: Yet a compoſure by us is rather coveted; nor ſhall any blood be ſpilt by us, can we conſerve our Cauſe without it: Pretty contradictory and inconſiſtant are the objections of well minded people; one cryes out the Parliament was infringing liberty of Conſcience, an<g ref="char:EOLhyphen"/>other places this Objection, that they were too much en<g ref="char:EOLhyphen"/>larging it; Chriſt eat and drank, John did neither, yet a Devill, and as bad were they both, in the eſteem of moſt; and truly prejudice, nor deſire of Dominion can ſcarcely be pleaſed. I would not willingly judge the generation of the juſt; though I ſee they are preyed upon, and looſe their own reputation, and bring a reproach on that bleſ<g ref="char:EOLhyphen"/>ſed name they profeſſe, to lift up and exalt poore mortal
+<pb n="8" facs="tcp:49440:5"/>changeable Creatures: whereas if things not perſons were more reſpected by us; we ſhould look a little more before we leap, and not umbrage unhandſome acts, under a Chriſtian Viſor. I ſpeak it not to upbraid, but wiſh I could convince any of this errour: but he that believes makes not haſt; God has his ſeaſon, to work his will in: I wiſh we may be found waiting upon him in well doing, and I doubt not then, but the iſſue of this ſad affaire will bring peace and ſettlement to theſe poore diſtracted Nations, Then which nothing is more coveted by,</p>
+            <closer>
+               <dateline>
+                  <hi>Petersfeild,</hi> 
+                  <date>
+                     <hi>Decemb.</hi> 21. 59.</date>
+               </dateline>
+               <salute>Dear ſir,</salute> 
+               <signed>Your Affection and faithfull ſervant, J. Braman.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
